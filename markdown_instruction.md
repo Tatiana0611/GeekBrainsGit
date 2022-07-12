@@ -104,6 +104,7 @@ id sem consectetuer libero luctus adipiscing.
       <a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
         <span class="comment-count">0 комментариев</span>
         <span class="comment-count-placeholder">Комментарии</span>
+         
       </a>
     </li>
     <li class="dropdown user-menu" data-role="logout">
@@ -126,3 +127,9 @@ id sem consectetuer libero luctus adipiscing.
 Для вставки кода внутри предложений нужно заключать этот код в апострофы (на букве Ё). Пример: `<html class="ie no-js">`.
 
 Если внутри кода есть апостроф, то код надо обрамить двойными апострофами: ``There is a literal backtick (`) here.``
+
+### Горизонтальная черта
+
+`hr` создается тремя звездочками или тремя дефисами.
+
+***
