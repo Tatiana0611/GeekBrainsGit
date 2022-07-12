@@ -37,7 +37,7 @@
 1. элемент 2
 2. элемент 3
 3. элемент 4
-4. Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
+4. 56756756767546756756765765756.
 
 На самом деле не важно как в коде пронумерованы пункты, главное, чтобы перед элементом списка стояла цифра (любая) с точкой. Можно сделать и так:
 
